@@ -2,7 +2,7 @@
 # M05.UF1.NF1.A1
 # Gestió de Projectes
 ### CFGS DAW-BIO
-<small>Pedro Durán / <pduran5@xtec.cat></small>
+
 
 ---
 
