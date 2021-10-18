@@ -24,4 +24,4 @@
 *   [M05. Presentació inicial del mòdul](https://pduran5.github.io/DAW.M05.Presentació inicial.html)
 *   [M05.UF1.NF1.A1. Cicles de vida i metodologies](DAW.M05.UF1.NF1.A1. Cicles de vida i metodologies.html)
 *   [M05.UF1.NF1.A1. Requisits de software](DAW.M05.UF1.NF1.A1.Requisits de software.html)
-*   [M05.UF1.NF1.A1. Gestió de projectes](https://pduran5.github.io/DAW.M05.UF1.NF1.A1.Gestió de projectes.html)
+*   [M05.UF1.NF1.A1. Gestió de projectes](https://github.com/pepina21/yenny.github.io/blob/master/DAW.M05.UF1.NF1.A1.Gesti%C3%B3%20de%20projectes.html)
