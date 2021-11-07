@@ -101,4 +101,4 @@
 
 --
 
-<img src="/img/RNFs.png" />
+img src="/img/RNFs.png" 
